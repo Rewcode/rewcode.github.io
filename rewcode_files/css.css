@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Anton'), url(http://fonts.gstatic.com/s/anton/v6/TS7BJzhU7AKgPn9R0AejYKCWcynf_cDxXwCLxiixG1c.woff2) format('woff2'), url(http://fonts.gstatic.com/s/anton/v6/4ccCHjovctZoFjdBOHBY_6CWcynf_cDxXwCLxiixG1c.woff) format('woff');
+}
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Enriqueta-Regular'), url(http://fonts.gstatic.com/s/enriqueta/v5/-KTKVm0Mx9ZCRXL9CXVIbZBw1xU1rKptJj_0jans920.woff2) format('woff2'), url(http://fonts.gstatic.com/s/enriqueta/v5/-KTKVm0Mx9ZCRXL9CXVIbbO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Enriqueta-Bold'), url(http://fonts.gstatic.com/s/enriqueta/v5/I27Pb-wEGH2ajLYP0QrtSBampu5_7CjHW5spxoeN3Vs.woff2) format('woff2'), url(http://fonts.gstatic.com/s/enriqueta/v5/I27Pb-wEGH2ajLYP0QrtSKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Jockey One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Jockey One'), local('JockeyOne-Regular'), url(http://fonts.gstatic.com/s/jockeyone/v6/8Hj8G_JpSADPYrRpzMno2gzyDMXhdD8sAj6OAJTFsBI.woff2) format('woff2'), url(http://fonts.gstatic.com/s/jockeyone/v6/8Hj8G_JpSADPYrRpzMno2r3hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Sarina';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sarina'), local('Sarina-Regular'), url(http://fonts.gstatic.com/s/sarina/v5/TZrXNMyNUjUPL2f_Qpl4huvvDin1pK8aKteLpeZ5c0A.woff2) format('woff2'), url(http://fonts.gstatic.com/s/sarina/v5/-ovNoxCACTCxDWTiycAzW-vvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+}
